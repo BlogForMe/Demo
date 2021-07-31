@@ -1,0 +1,12 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res/com.samuelzhan.heartrateline"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.samuelzhan.heartrateline.HeartRateLine 
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        custom:speed="50"/>
+
+</RelativeLayout>

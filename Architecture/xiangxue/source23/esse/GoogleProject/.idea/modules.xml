@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoogleProject.iml" filepath="$PROJECT_DIR$/GoogleProject.iml" group="GoogleProject" />
+      <module fileurl="file://$PROJECT_DIR$/app/GoogleProject-app.iml" filepath="$PROJECT_DIR$/app/GoogleProject-app.iml" group="GoogleProject/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="GoogleProject/app" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" group="GoogleProject/common" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "29.0.3"
+
+    defaultConfig {
+        applicationId "com.creative.libdemo"
+        minSdkVersion 19
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+
+
+    api 'androidx.appcompat:appcompat:1.1.0'
+
+    compile files('libs/BDETrans.jar')
+    compile files('libs/pc80b_60nw1.jar')
+}

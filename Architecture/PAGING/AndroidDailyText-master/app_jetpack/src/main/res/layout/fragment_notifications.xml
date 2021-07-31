@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.notifications.NotificationsFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/motion1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="motion1"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/motion2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="motion2"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/motion3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="motion3"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/motion4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="motion4"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/motion5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="motion5"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/motion6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="motion6"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/motion7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="motion7"
+            android:textAllCaps="false" />
+        <Button
+            android:id="@+id/motion8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="motion8"
+            android:textAllCaps="false" />
+        <Button
+            android:id="@+id/motion9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="motion9"
+            android:textAllCaps="false" />
+        <Button
+            android:id="@+id/motion10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="motion10"
+            android:textAllCaps="false" />
+        <Button
+            android:id="@+id/motion11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="motion11"
+            android:textAllCaps="false" />
+        <Button
+            android:id="@+id/motion12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="motion12"
+            android:textAllCaps="false" />
+    </LinearLayout>
+
+</ScrollView>

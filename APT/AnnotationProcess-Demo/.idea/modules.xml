@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnnotationProcess-Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/AnnotationProcess-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnnotationProcess-Demo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnnotationProcess-Demo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_annotations/AnnotationProcess-Demo.lib_annotations.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_annotations/AnnotationProcess-Demo.lib_annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_api/AnnotationProcess-Demo.lib_api.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_api/AnnotationProcess-Demo.lib_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_compiler/AnnotationProcess-Demo.lib_compiler.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_compiler/AnnotationProcess-Demo.lib_compiler.iml" />
+    </modules>
+  </component>
+</project>

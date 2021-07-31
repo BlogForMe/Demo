@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SlideDetailsLayout">
+        <!-- float value for indicate the moment of switch panel-->
+        <attr name="percent" format="float"/>
+        <!-- how long the animation keep-->
+        <attr name="duration" format="integer"/>
+        <!-- default panel to show after init-->
+        <attr name="default_panel" format="enum">
+            <enum name="front" value="0"/>
+            <enum name="behind" value="1"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="PathMeasurePay">
+        <!--1是对号  2是叉号-->
+        <attr name="type" format="integer"/>
+        <attr name="color" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="AvatarImageBehavior">
+        <attr name="finalYPosition" format="dimension" />
+        <attr name="startXPosition" format="dimension" />
+        <attr name="startToolbarPosition" format="dimension" />
+        <attr name="startHeight" format="dimension" />
+        <attr name="finalHeight" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="roundedimageview">
+        <attr name="border_thickness" format="dimension" />
+        <attr name="border_inside_color" format="color" />
+        <attr name="border_outside_color" format="color"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="CirclePercentView">
+        <!--圆弧背景色-->
+        <attr name="circleBgColor" format="reference" />
+        <!--圆弧进度条颜色-->
+        <attr name="circleProgressColor" format="reference" />
+        <!--圆弧宽度-->
+        <attr name="circleRadius" format="integer" />
+        <!--渐变开始颜色-->
+        <attr name="circleStartColor" format="reference" />
+        <!--渐变结束颜色-->
+        <attr name="circleEndColor" format="reference" />
+        <!--是否渐变-->
+        <attr name="circleIsGradient" format="boolean" />
+    </declare-styleable>
+
+</resources>

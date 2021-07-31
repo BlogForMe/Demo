@@ -1,0 +1,10 @@
+2020-02-13 14:48:29 [INFO ][LoServer] [main] - ***** Welcome To LoServer on port [80,18080], startting spend 34ms *****
+2020-02-13 14:53:28 [INFO ][LoServer] [main] - ***** Welcome To LoServer on port [80,18080], startting spend 34ms *****
+2020-02-13 14:53:39 [INFO ][ActionHandler] [nioEventLoopGroup-5-1] - Http request whit url /api/version
+2020-02-13 14:53:39 [INFO ][ActionHandler] [nioEventLoopGroup-5-1] - Http request whit url /favicon.ico
+2020-02-13 14:54:31 [INFO ][ActionHandler] [nioEventLoopGroup-5-1] - Http request whit url /api/version
+2020-02-13 15:16:39 [INFO ][ActionHandler] [nioEventLoopGroup-5-2] - Http request whit url /api/version
+2020-02-13 15:37:00 [INFO ][ActionHandler] [nioEventLoopGroup-5-3] - Http request whit url /login
+2020-02-13 15:37:04 [INFO ][ActionHandler] [nioEventLoopGroup-5-4] - Http request whit url /login
+2020-02-13 15:37:05 [INFO ][ActionHandler] [nioEventLoopGroup-5-5] - Http request whit url /login
+2020-02-13 15:45:22 [INFO ][ActionHandler] [nioEventLoopGroup-5-6] - Http request whit url /login

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#5A8DDF</color>
+
+    <!-- 按钮禁用时的颜色 -->
+    <color name="colorButtonDisable">#DDDDDD</color>
+    <color name="skin_bg">#FF4081</color>
+    <color name="statistic_yes">#40ff70</color>
+    <color name="statistic_no">#FF4081</color>
+    <color name="statistic_hand">#4066ff</color>
+    <color name="blue">#07afec</color>
+    <color name="black">#000000</color>
+
+    <!-- 按钮按压时的颜色 -->
+    <color name="colorButtonPressed">#1976d2</color>
+
+    <color name="bg">#9b8888</color>
+    <color name="gray">#999999</color>
+    <color name="axis">#979797</color>
+    <color name="tab_color_blue">#0065ff</color>
+
+    <color name="black_60">#99000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- 分割线的颜色 -->
+    <color name="colorLine">#ECECEC</color>
+
+    <color name="orange">#FF9600</color>
+    <color name="aqua">#02D1AC</color>
+    <color name="yellow">#FFD200</color>
+    <color name="green">#00E099</color>
+    <color name="pink">#FF3892</color>
+    <array name="splash_circle_colors">
+        <item>@color/blue</item>
+        <item>@color/green</item>
+        <item>@color/pink</item>
+        <item>@color/orange</item>
+        <item>@color/aqua</item>
+        <item>@color/yellow</item>
+    </array>
+    <color name="red">#FF0000</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="base_shallow_black">#818181</color>
+    <color name="gray_e5">#e5e5e5</color>
+    <color name="gray_click">#e3e7ee</color>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='USBU'
+include ':app'
