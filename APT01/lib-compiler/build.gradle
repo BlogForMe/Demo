@@ -1,0 +1,16 @@
+plugins {
+    id 'java-library'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_7
+    targetCompatibility = JavaVersion.VERSION_1_7
+}
+dependencies {
+
+    implementation project(path: ':lib-annotations')
+    implementation "com.google.auto.service:auto-service:1.0-rc4"
+    annotationProcessor "com.google.auto.service:auto-service:1.0-rc4"
+    implementation "com.squareup:javapoet:1.10.0"
+}
+//https://juejin.cn/post/6925283352698159117#heading-14
